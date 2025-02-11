@@ -36,3 +36,7 @@ This tool analyzes network traffic from **pcap files** to extract valuable insig
 - **Accurate geolocation mapping from IPs**.
 - **Limited detection for encrypted traffic**.
 - **Variability in OS/NIC identification accuracy**.
+
+## 🎥 Demo GIF
+![Demo](https://github.com/esha-99/intelligent-packet-analysis-tool/blob/7b4141cf2ee29ba36a829a3adbf028644021654b/tool%20video.mp4)
+
