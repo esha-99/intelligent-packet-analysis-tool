@@ -1,0 +1,474 @@
+TTL	Estimated OS	Packet Range
+64	Linux	1-22
+	Unknown	23-24
+64	Linux	25-44
+118	IoT Device or Specialized Equipment	45-46
+64	Linux	47-50
+119	Networking Equipment (Router/Switch)	51-52
+64	Linux	53-54
+119	Networking Equipment (Router/Switch)	55-55
+45	Mobile Hotspot	56-56
+64	Linux	57-60
+46	Low-End IoT Device	61-61
+64	Linux	62-62
+119	Networking Equipment (Router/Switch)	63-63
+64	Linux	64-65
+119	Networking Equipment (Router/Switch)	66-67
+64	Linux	68-71
+119	Networking Equipment (Router/Switch)	72-73
+64	Linux	74-75
+46	Low-End IoT Device	76-76
+64	Linux	77-77
+55	Smart IoT Device	78-78
+118	IoT Device or Specialized Equipment	79-79
+64	Linux	80-81
+56	Android Device	82-82
+45	Mobile Hotspot	83-84
+64	Linux	85-85
+118	IoT Device or Specialized Equipment	86-86
+55	Smart IoT Device	87-87
+64	Linux	88-88
+56	Android Device	89-90
+64	Linux	91-94
+56	Android Device	95-95
+64	Linux	96-99
+56	Android Device	100-103
+64	Linux	104-110
+118	IoT Device or Specialized Equipment	111-113
+64	Linux	114-116
+109	Data Center Equipment	117-118
+64	Linux	119-119
+119	Networking Equipment (Router/Switch)	120-124
+64	Linux	125-127
+55	Smart IoT Device	128-128
+119	Networking Equipment (Router/Switch)	129-129
+64	Linux	130-131
+55	Smart IoT Device	132-134
+64	Linux	135-139
+110	BSD Variant	140-141
+64	Linux	142-143
+55	Smart IoT Device	144-145
+110	BSD Variant	146-146
+120	Specialized Device (Unknown)	147-147
+64	Linux	148-150
+58	Android Hotspot	151-153
+64	Linux	154-159
+	Unknown	160-161
+64	Linux	162-163
+58	Android Hotspot	164-165
+64	Linux	166-166
+58	Android Hotspot	167-170
+64	Linux	171-173
+119	Networking Equipment (Router/Switch)	174-174
+55	Smart IoT Device	175-175
+64	Linux	176-178
+58	Android Hotspot	179-180
+64	Linux	181-189
+58	Android Hotspot	190-191
+64	Linux	192-192
+58	Android Hotspot	193-193
+64	Linux	194-198
+58	Android Hotspot	199-200
+64	Linux	201-201
+58	Android Hotspot	202-205
+56	Android Device	206-206
+58	Android Hotspot	207-207
+64	Linux	208-212
+58	Android Hotspot	213-216
+119	Networking Equipment (Router/Switch)	217-217
+55	Smart IoT Device	218-218
+46	Low-End IoT Device	219-220
+64	Linux	221-223
+119	Networking Equipment (Router/Switch)	224-224
+58	Android Hotspot	225-225
+64	Linux	226-228
+58	Android Hotspot	229-233
+64	Linux	234-235
+58	Android Hotspot	236-236
+119	Networking Equipment (Router/Switch)	237-237
+64	Linux	238-240
+109	Data Center Equipment	241-241
+64	Linux	242-242
+58	Android Hotspot	243-246
+64	Linux	247-247
+119	Networking Equipment (Router/Switch)	248-248
+58	Android Hotspot	249-249
+56	Android Device	250-250
+64	Linux	251-252
+56	Android Device	253-254
+64	Linux	255-258
+55	Smart IoT Device	259-259
+119	Networking Equipment (Router/Switch)	260-260
+64	Linux	261-268
+55	Smart IoT Device	269-275
+64	Linux	276-278
+118	IoT Device or Specialized Equipment	279-284
+56	Android Device	285-286
+64	Linux	287-288
+56	Android Device	289-289
+64	Linux	290-291
+55	Smart IoT Device	292-292
+118	IoT Device or Specialized Equipment	293-293
+46	Low-End IoT Device	294-295
+64	Linux	296-299
+58	Android Hotspot	300-300
+118	IoT Device or Specialized Equipment	301-303
+64	Linux	304-305
+58	Android Hotspot	306-306
+64	Linux	307-307
+55	Smart IoT Device	308-308
+64	Linux	309-310
+55	Smart IoT Device	311-311
+118	IoT Device or Specialized Equipment	312-312
+64	Linux	313-313
+119	Networking Equipment (Router/Switch)	314-314
+64	Linux	315-316
+120	Specialized Device (Unknown)	317-318
+64	Linux	319-319
+119	Networking Equipment (Router/Switch)	320-320
+56	Android Device	321-321
+64	Linux	322-325
+55	Smart IoT Device	326-326
+56	Android Device	327-327
+119	Networking Equipment (Router/Switch)	328-328
+64	Linux	329-329
+119	Networking Equipment (Router/Switch)	330-331
+64	Linux	332-334
+120	Specialized Device (Unknown)	335-335
+64	Linux	336-339
+56	Android Device	340-341
+64	Linux	342-343
+119	Networking Equipment (Router/Switch)	344-344
+64	Linux	345-345
+55	Smart IoT Device	346-346
+120	Specialized Device (Unknown)	347-348
+64	Linux	349-349
+120	Specialized Device (Unknown)	350-351
+64	Linux	352-355
+55	Smart IoT Device	356-356
+64	Linux	357-357
+110	BSD Variant	358-358
+64	Linux	359-359
+56	Android Device	360-361
+64	Linux	362-364
+120	Specialized Device (Unknown)	365-365
+64	Linux	366-367
+55	Smart IoT Device	368-368
+64	Linux	369-372
+119	Networking Equipment (Router/Switch)	373-376
+120	Specialized Device (Unknown)	377-379
+119	Networking Equipment (Router/Switch)	380-380
+64	Linux	381-384
+120	Specialized Device (Unknown)	385-386
+64	Linux	387-392
+55	Smart IoT Device	393-394
+64	Linux	395-395
+56	Android Device	396-397
+64	Linux	398-401
+119	Networking Equipment (Router/Switch)	402-402
+118	IoT Device or Specialized Equipment	403-403
+120	Specialized Device (Unknown)	404-404
+64	Linux	405-406
+55	Smart IoT Device	407-407
+64	Linux	408-409
+119	Networking Equipment (Router/Switch)	410-413
+64	Linux	414-423
+55	Smart IoT Device	424-424
+120	Specialized Device (Unknown)	425-425
+118	IoT Device or Specialized Equipment	426-426
+120	Specialized Device (Unknown)	427-430
+119	Networking Equipment (Router/Switch)	431-431
+56	Android Device	432-432
+64	Linux	433-433
+118	IoT Device or Specialized Equipment	434-434
+64	Linux	435-436
+120	Specialized Device (Unknown)	437-439
+118	IoT Device or Specialized Equipment	440-440
+55	Smart IoT Device	441-441
+64	Linux	442-445
+56	Android Device	446-449
+64	Linux	450-453
+118	IoT Device or Specialized Equipment	454-455
+107	High-End Router	456-456
+64	Linux	457-459
+56	Android Device	460-460
+64	Linux	461-462
+56	Android Device	463-467
+64	Linux	468-472
+119	Networking Equipment (Router/Switch)	473-473
+56	Android Device	474-474
+119	Networking Equipment (Router/Switch)	475-476
+56	Android Device	477-477
+64	Linux	478-483
+45	Mobile Hotspot	484-484
+46	Low-End IoT Device	485-486
+56	Android Device	487-487
+64	Linux	488-490
+119	Networking Equipment (Router/Switch)	491-492
+56	Android Device	493-497
+64	Linux	498-500
+56	Android Device	501-501
+64	Linux	502-506
+56	Android Device	507-511
+64	Linux	512-512
+56	Android Device	513-513
+64	Linux	514-514
+56	Android Device	515-515
+64	Linux	516-517
+56	Android Device	518-518
+64	Linux	519-521
+119	Networking Equipment (Router/Switch)	522-522
+56	Android Device	523-524
+64	Linux	525-527
+56	Android Device	528-528
+64	Linux	529-534
+56	Android Device	535-538
+64	Linux	539-542
+56	Android Device	543-546
+119	Networking Equipment (Router/Switch)	547-548
+64	Linux	549-549
+119	Networking Equipment (Router/Switch)	550-551
+118	IoT Device or Specialized Equipment	552-552
+119	Networking Equipment (Router/Switch)	553-554
+64	Linux	555-558
+119	Networking Equipment (Router/Switch)	559-560
+64	Linux	561-563
+56	Android Device	564-565
+64	Linux	566-566
+56	Android Device	567-567
+64	Linux	568-568
+56	Android Device	569-571
+64	Linux	572-574
+56	Android Device	575-578
+64	Linux	579-581
+56	Android Device	582-582
+64	Linux	583-584
+56	Android Device	585-588
+64	Linux	589-592
+56	Android Device	593-596
+64	Linux	597-598
+56	Android Device	599-600
+64	Linux	601-602
+119	Networking Equipment (Router/Switch)	603-605
+56	Android Device	606-608
+55	Smart IoT Device	609-609
+119	Networking Equipment (Router/Switch)	610-610
+64	Linux	611-612
+55	Smart IoT Device	613-613
+118	IoT Device or Specialized Equipment	614-614
+119	Networking Equipment (Router/Switch)	615-615
+64	Linux	616-619
+56	Android Device	620-625
+64	Linux	626-630
+55	Smart IoT Device	631-631
+119	Networking Equipment (Router/Switch)	632-632
+55	Smart IoT Device	633-633
+64	Linux	634-634
+119	Networking Equipment (Router/Switch)	635-635
+64	Linux	636-638
+55	Smart IoT Device	639-639
+56	Android Device	640-642
+64	Linux	643-646
+119	Networking Equipment (Router/Switch)	647-647
+64	Linux	648-648
+119	Networking Equipment (Router/Switch)	649-651
+64	Linux	652-653
+119	Networking Equipment (Router/Switch)	654-654
+64	Linux	655-655
+119	Networking Equipment (Router/Switch)	656-659
+64	Linux	660-664
+118	IoT Device or Specialized Equipment	665-665
+56	Android Device	666-668
+64	Linux	669-671
+119	Networking Equipment (Router/Switch)	672-672
+64	Linux	673-676
+56	Android Device	677-677
+64	Linux	678-678
+56	Android Device	679-679
+120	Specialized Device (Unknown)	680-680
+56	Android Device	681-681
+120	Specialized Device (Unknown)	682-686
+64	Linux	687-690
+120	Specialized Device (Unknown)	691-691
+64	Linux	692-692
+120	Specialized Device (Unknown)	693-693
+64	Linux	694-694
+120	Specialized Device (Unknown)	695-695
+64	Linux	696-696
+120	Specialized Device (Unknown)	697-697
+64	Linux	698-698
+120	Specialized Device (Unknown)	699-700
+64	Linux	701-702
+120	Specialized Device (Unknown)	703-703
+64	Linux	704-704
+120	Specialized Device (Unknown)	705-705
+64	Linux	706-706
+120	Specialized Device (Unknown)	707-707
+64	Linux	708-709
+56	Android Device	710-711
+64	Linux	712-712
+56	Android Device	713-713
+64	Linux	714-715
+120	Specialized Device (Unknown)	716-716
+64	Linux	717-717
+56	Android Device	718-719
+64	Linux	720-722
+120	Specialized Device (Unknown)	723-723
+56	Android Device	724-726
+120	Specialized Device (Unknown)	727-730
+64	Linux	731-731
+120	Specialized Device (Unknown)	732-733
+64	Linux	734-736
+120	Specialized Device (Unknown)	737-737
+55	Smart IoT Device	738-739
+64	Linux	740-740
+56	Android Device	741-741
+64	Linux	742-742
+55	Smart IoT Device	743-743
+64	Linux	744-745
+56	Android Device	746-747
+64	Linux	748-749
+229	Industrial Equipment	750-750
+64	Linux	751-752
+229	Industrial Equipment	753-753
+64	Linux	754-755
+229	Industrial Equipment	756-757
+64	Linux	758-761
+56	Android Device	762-762
+229	Industrial Equipment	763-764
+64	Linux	765-766
+56	Android Device	767-767
+64	Linux	768-769
+56	Android Device	770-770
+64	Linux	771-772
+56	Android Device	773-773
+64	Linux	774-775
+56	Android Device	776-777
+64	Linux	778-778
+56	Android Device	779-780
+64	Linux	781-781
+229	Industrial Equipment	782-782
+64	Linux	783-783
+229	Industrial Equipment	784-784
+64	Linux	785-786
+229	Industrial Equipment	787-788
+64	Linux	789-791
+229	Industrial Equipment	792-793
+64	Linux	794-795
+229	Industrial Equipment	796-796
+64	Linux	797-797
+229	Industrial Equipment	798-799
+64	Linux	800-801
+56	Android Device	802-802
+64	Linux	803-803
+56	Android Device	804-804
+64	Linux	805-805
+55	Smart IoT Device	806-806
+64	Linux	807-811
+46	Low-End IoT Device	812-813
+119	Networking Equipment (Router/Switch)	814-814
+55	Smart IoT Device	815-815
+64	Linux	816-817
+45	Mobile Hotspot	818-818
+119	Networking Equipment (Router/Switch)	819-819
+55	Smart IoT Device	820-820
+64	Linux	821-822
+56	Android Device	823-824
+64	Linux	825-829
+119	Networking Equipment (Router/Switch)	830-831
+64	Linux	832-832
+120	Specialized Device (Unknown)	833-836
+108	Unknown	837-837
+119	Networking Equipment (Router/Switch)	838-838
+64	Linux	839-841
+119	Networking Equipment (Router/Switch)	842-842
+64	Linux	843-844
+120	Specialized Device (Unknown)	845-845
+119	Networking Equipment (Router/Switch)	846-848
+64	Linux	849-851
+56	Android Device	852-853
+55	Smart IoT Device	854-854
+64	Linux	855-860
+119	Networking Equipment (Router/Switch)	861-865
+64	Linux	866-872
+55	Smart IoT Device	873-875
+64	Linux	876-878
+119	Networking Equipment (Router/Switch)	879-880
+109	Data Center Equipment	881-881
+64	Linux	882-883
+56	Android Device	884-886
+64	Linux	887-888
+55	Smart IoT Device	889-889
+64	Linux	890-891
+56	Android Device	892-892
+55	Smart IoT Device	893-893
+56	Android Device	894-894
+55	Smart IoT Device	895-895
+64	Linux	896-901
+55	Smart IoT Device	902-904
+64	Linux	905-908
+56	Android Device	909-911
+64	Linux	912-912
+56	Android Device	913-913
+55	Smart IoT Device	914-914
+64	Linux	915-915
+55	Smart IoT Device	916-916
+64	Linux	917-917
+55	Smart IoT Device	918-920
+64	Linux	921-921
+55	Smart IoT Device	922-922
+64	Linux	923-923
+55	Smart IoT Device	924-924
+64	Linux	925-927
+119	Networking Equipment (Router/Switch)	928-929
+64	Linux	930-931
+55	Smart IoT Device	932-933
+119	Networking Equipment (Router/Switch)	934-934
+64	Linux	935-938
+56	Android Device	939-939
+64	Linux	940-942
+119	Networking Equipment (Router/Switch)	943-943
+55	Smart IoT Device	944-944
+119	Networking Equipment (Router/Switch)	945-946
+55	Smart IoT Device	947-948
+64	Linux	949-956
+56	Android Device	957-957
+55	Smart IoT Device	958-958
+119	Networking Equipment (Router/Switch)	959-960
+64	Linux	961-963
+55	Smart IoT Device	964-964
+119	Networking Equipment (Router/Switch)	965-965
+55	Smart IoT Device	966-967
+120	Specialized Device (Unknown)	968-969
+56	Android Device	970-970
+64	Linux	971-975
+119	Networking Equipment (Router/Switch)	976-978
+55	Smart IoT Device	979-979
+64	Linux	980-984
+119	Networking Equipment (Router/Switch)	985-986
+64	Linux	987-989
+53	Unknown IoT Device	990-990
+64	Linux	991-992
+52	Low Power Embedded System	993-993
+55	Smart IoT Device	994-994
+64	Linux	995-996
+119	Networking Equipment (Router/Switch)	997-997
+64	Linux	998-998
+55	Smart IoT Device	999-999
+64	Linux	1000-1000
+55	Smart IoT Device	1001-1001
+53	Unknown IoT Device	1002-1003
+52	Low Power Embedded System	1004-1005
+64	Linux	1006-1014
+55	Smart IoT Device	1015-1016
+119	Networking Equipment (Router/Switch)	1017-1019
+55	Smart IoT Device	1020-1020
+64	Linux	1021-1024
+55	Smart IoT Device	1025-1029
+64	Linux	1030-1035
+55	Smart IoT Device	1036-1038
+64	Linux	1039-1039
+55	Smart IoT Device	1040-1040
+1	Corrupted Packet or Malformed Packet	1041-1042
+64	Linux	1043-1043
+55	Smart IoT Device	1044-1044

@@ -1,0 +1,7 @@
+Hardware Information Report
+===========================
+Source MAC	Source Manufacturer	Destination MAC	Destination Manufacturer
+00:0c:29:01:ea:86	VMware_01:ea:86	44:e9:68:0f:c3:3a	HuaweiTechno_0f:c3:3a
+44:e9:68:0f:c3:3a	HuaweiTechno_0f:c3:3a	00:0c:29:01:ea:86	VMware_01:ea:86
+dc:41:a9:c0:2d:71	Intel_c0:2d:71	01:00:5e:00:00:fb	IPv4mcast_fb
+dc:41:a9:c0:2d:71	Intel_c0:2d:71	01:00:5e:7f:ff:fa	IPv4mcast_7f:ff:fa
