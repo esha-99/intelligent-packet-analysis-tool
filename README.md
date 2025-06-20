@@ -11,7 +11,7 @@ This tool analyzes network traffic from **pcap files** to extract valuable insig
 - **Report Generation**: Produces structured security reports.
 - **Graphical User Interface (GUI)**: Built using Tkinter for visualization.
 
-## 🛠 Technologies Used
+## Technologies Used
 - **Python**: Core programming language.
 - **Tshark**: Packet analysis tool for data extraction.
 - **Pyshark**: Python wrapper for `Tshark` to analyze packets.
